@@ -1,10 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-home/","tags":["gardenEntry"]}
----
-
-
-Excelente enfoque colega, y un mensaje poderosísimo: mostrar que arrancaste solo con ideas. Acá va la versión completa de la nota `Home`, incluyendo la mini bio, una sección de actualizaciones y el estado del laboratorio para mostrar el camino recorrido. Está pensada para inspirar sin chamuyo:
-
+{"dg-publish":true,"permalink":"/0-home/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
 ## 🏠 Notas-WOAION
