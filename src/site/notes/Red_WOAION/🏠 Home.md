@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/red-woaion/home/","tags":["gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/red-woaion/home/","title":"Inicio","tags":["home","índice","gardenEntry"],"noteIcon":""}
 ---
 
 ## 🏠 Notas-WOAION
