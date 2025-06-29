@@ -1,10 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mapa-woaion/","noteIcon":""}
----
-
-title: Mapa WOAION
----
-description: Índice general del proyecto WOAION. Accedé a materiales, sistemas, cultivos, herramientas y recursos organizados por bloques temáticos.
+{"dg-publish":true,"permalink":"/mapa-woaion/","title":"Título descriptivo de la nota","tags":["centro-de-operaciones","coordinación","mapa"],"noteIcon":""}
 ---
 
 # 🗺️ Mapa WOAION
@@ -22,11 +17,16 @@ Desde acá podés navegar por las áreas de investigación, prototipado y aplica
 - **[WOAION LOW-Tech Research](...)**  
   Blog de investigación y fundamentos: pruebas, hipótesis, papers y biotecnología experimental.
 
-- **[WOAION LOW-Tech Prototipos](...)**  
+- **[WOAION LOW-Tech Prototipos](https://woaionprototiposlt.blogspot.com/)**  
   Blog de prototipos activos: lo que se está construyendo, evaluando y ajustando.
 
 - **[WOAION LOW-Tech Soluciones](...)**  
   Soluciones concretas listas para replicar: sistemas de agua, energía y cultivos probados en campo.
+Estático digital garden Notas-WOAION: https://notas-woaion.vercel.app/
+Blog Research: https://woaionltr.blogspot.com/
+Blog prototipos: https://woaionprototiposlt.blogspot.com/
+Blog Soluciones: https://woaionsolucioneslt.blogspot.com/
+Canal de telegram: https://t.me/WOAION
 
 ---
 
