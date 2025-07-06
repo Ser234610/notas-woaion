@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/red-woaion/1-cultivo/ficha-de-soluciones-nutritivas/","tags":["Cultivos","microorganismos","soluciones-nutritivas"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/red-woaion/1-cultivo/ficha-de-soluciones-nutritivas/","tags":["solucionesnutritivas"],"noteIcon":""}
 ---
 
 

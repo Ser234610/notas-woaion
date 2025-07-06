@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/red-woaion/home/","title":"Inicio","tags":["home","índice","gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/red-woaion/home/","title":"Inicio","tags":["home","gardenEntry"],"noteIcon":""}
 ---
 
 ## Notas-WOAION
 
-![Woaion580x580.png|50%](/img/user/Recursos%20Adjuntos/Woaion580x580.png)
+![Woaion580x580.png|150](/img/user/Recursos%20Adjuntos/Woaion580x580.png)
 
 **Bienvenido/a a Notas-WOAION**, el lugar donde se documenta lo que no se ve en los videos, no se escucha en los podcasts, y no siempre llega al blog principal. Acá vas a encontrar el detrás de escena de WOAION: pruebas, errores, hallazgos inesperados, ideas sueltas, registros de campo y todo lo que va alimentando los sistemas sustentables que estamos construyendo.
 
