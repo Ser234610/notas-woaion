@@ -31,7 +31,7 @@ WOAION es una red de conocimiento aplicada. Creamos y compartimos **sistemas aut
 
 ### 👤 Sobre mí
 
-Soy Sergio, aunque algunos me conocen como **Colega**, **Cerebrito** o **Ser**. Vengo del palo de la biotecnología, pero lo que hago no entra en una sola caja. Investigo, ensayo, fallo, ajusto y vuelvo a intentar.
+Soy Sergio, aunque algunos me conocen como **Colega**, **Cerebrito** o **Ser**. Vengo del área de la construcción, pero lo que hago no entra en una sola caja. Investigo, ensayo, fallo, ajusto y vuelvo a intentar, cualquier cosa que se me cruce en el camino y es la base de mi conocimiento autodidacta. las areas de conocimiento donde me estoy enfocando mas en estos momentos son, biotecnologia, automatizacion,
 
 No empecé con herramientas, ni laboratorio, ni dinero. Solo tenía ideas y la necesidad de encontrar respuestas que sirvieran de verdad. Hoy comparto lo que aprendí para que otros puedan empezar sin esperar a tener “todo listo”.
 
@@ -39,7 +39,7 @@ No empecé con herramientas, ni laboratorio, ni dinero. Solo tenía ideas y la n
 
 ### 🔧 El laboratorio WOAION
 
-Mi laboratorio no nació como un laboratorio. Empezó en una mesa o en el piso, con unos destornilladores comunes y una pinza, resistencias quemadas, pedasos de electrodomésticos rotos, chatarra por aqui y chatarra por alla, El junta mugre y muchas ganas.
+Mi laboratorio no nació como un laboratorio. Empezó en una mesa o en el piso, con unos destornilladores comunes y una pinza,  pedasos de electrodomésticos rotos, chatarra por aqui y chatarra por alla, El junta mugre con muchas ganas y curiosidad.
 
 **Hoy, el laboratorio cuenta con:**
 
@@ -50,13 +50,13 @@ Mi laboratorio no nació como un laboratorio. Empezó en una mesa o en el piso, 
 * 🔹 Placa ESP32** 
 * 🔹 **ESP8266**, para crear sensores e instrumentos caseros
 * 🔹 **Gasificador de biomasa** funcional, hecho con materiales reciclados
-* 🔹 Generador **Stirling** en pruebas
-* 🔹 Cultivos activos de **algas, nopal, hongos y kombucha**
+* 🔹 Generador **Stirling** en pruebas, (Funciona con gas producido por bacterias metanogenicas y un gasificador de biomasa, el motor stirling mueve un generador eléctrico el y los residuos del todo el proceso se usan como fertilizante natural)
+* 🔹 Cultivos activos de **algas, nopal, hongos y kombucha** 
 * 🔹 Prototipos de **filtros de agua biodegradables**
 * 🔹 Reactor de plasma frío** hecho con un flyback y piezas reutilizadas
 * 🔹 Experimentos de **reciclado de colillas** como material sólido
 * 🔹 Estructuras verticales de **hidroponía low-tech**
-* 🔹 Pizarra llena de ideas y esquemas que cambian todos los días (Centro de operaciones)
+* 🔹 Pizarra llena de ideas y esquemas que cambian todos los días. El espejo digital lo comparto en https://excalidraw.com/#json=-oj8L53kceCmKYPgd0xTG,gUiL1ZD7LBANkXNXWKRgvA y en https://notas-woaion.vercel.app/coordinacion-woaion/mapa-woaion/(Centro de operaciones WOAION)
 
 Todo esto se fue armando de a poco, pieza por pieza. Y lo sigo construyendo.
 
@@ -71,6 +71,7 @@ Esta sección se va actualizando con los avances recientes, cambios en los siste
 * **\[17/06/25]** Publicadas fichas de cultivo de hongos, nopal y algas.
 * **\[13/06/25]** Estructuración del sistema WOAION en tarjetas: materiales, productos, sistemas, energía, recursos hídricos, cultivos.
 * **\[09/06/25]** Primeros prototipos del filtro con cordón de yuca en carcasa perforada.
+* **\[10/07/25]** Primer prototipo de Rack de cultivo de microorganismos para la producción y estudio de Metano, Hidrógeno, Energía, Bio-sensores y tratamiento de residuos .
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/red-woaion/1-cultivo/ficha-de-soluciones-nutritivas/","tags":["solucionesnutritivas"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/red-woaion/1-cultivo/ficha-de-soluciones-nutritivas/","tags":["solucionesnutritivas","cultivo"],"noteIcon":""}
 ---
 
 
