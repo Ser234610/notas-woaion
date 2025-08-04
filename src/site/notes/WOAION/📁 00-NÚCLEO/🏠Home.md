@@ -65,12 +65,31 @@ Cuando visites este espacio, no estás solo leyendo documentación. Estás viend
 
 ---
 
-📥 Si estás usando el vault por primera vez, te invitamos a dejar tus impresiones aquí:  
+🧬 **Starter Kit WOAION disponible**  
+Ya podés sumarte a la red sincronizada del Vault con el Starter Kit: una versión mínima para comenzar a explorar y contribuir.
+
+Incluye:
+
+- Carpeta base `Vault-WOAION/`
+    
+- Notas atómicas esenciales y plantillas
+    
+- Guía de instalación paso a paso: Obsidian, plugins y Syncthing
+    
+
+📡 Cuando tengas Syncthing listo, mandame tu código y te conecto al Vault principal. Desde ahí se sincroniza todo el contenido automáticamente.
+
+Descargar 👉[Starter Kit WOAION – Google Drive](https://drive.google.com/drive/folders/1jXrL3GX7PJYtlXN-V8Pt0oMX59UbQIj5?usp=drive_link)
+
+🌱 **¿Querés que tu Vault forme parte del ecosistema WOAION?**  
+Si estás usando el Starter Kit desde el Digital Garden, podés sumarte como tester sincronizado y tener una copia viva del sistema en tu dispositivo.  
 👉 [[WOAION/📁 02-METODOLOGÍA/Plantillas/🗣 Feedback Tester WOAION\|🗣 Feedback Tester WOAION]]
 
-**🚀 ¿Listo para sumergirte?**
-
-No hay una forma "correcta" de usar este vault. Déjate llevar por la curiosidad, sigue los enlaces que te llamen la atención, y no tengas miedo de perderte. Los mejores descubrimientos surgen cuando menos los esperas.
+**🚀 ¿Listo para sumergirte?**  
+No hay una forma “correcta” de usar este vault. Déjate llevar por la curiosidad, seguí los enlaces que te llamen, y no temas perderte. Los mejores descubrimientos aparecen cuando menos los buscás.
 
 _Última actualización: Esta introducción evoluciona constantemente, como todo en WOAION._
 
+---
+
+¿Querés que prepare también una pequeña _landing page_ para esto dentro del Vault o el sitio estático?
