@@ -2,9 +2,7 @@
 {"dg-publish":true,"permalink":"/woaion/00-nucleo/home/","tags":["home","gardenEntry"],"noteIcon":""}
 ---
 
-Hola por favor podrías ayudarme a revisar el Home nuevo del vault, funciona como una pagina de inicio para los curioso y makers nuevos que entran WOAION esta en este formato porque tiene un espejo en la web un digital garden. hay personas que lo ven en la web y otros que descargan un Starter kit y se sincronizan con el mio. quiero o fusionar lo mejor de los dos o si tienes una propuesta mejor pongo una versión nueva
 
-Home Nuevo
 # Bienvenido a Notas-WOAION
 
 ![Woaion580x580.png|250](/img/user/WOAION/%F0%9F%93%81%2006-RECURSOS/Woaion580x580.png)
